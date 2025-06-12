@@ -1,2 +1,3 @@
-git config --global user.name "Hoang Hoang"
+// Câu lệnh để cài đặt email và name
+git config --global user.name "PW-luongtoan"
 git config --global user.email "luongluonghi@gmail.com"
